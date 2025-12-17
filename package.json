@@ -1,0 +1,10 @@
+{
+  "name": "discord-timestamp-helper-Disc-Timestamps",
+  "version": "1.0.0",
+  "description": "Discord timestamp generator tool",
+  "main": "index.js",
+  "keywords": ["discord", "timestamp"],
+  "author": "Disc Timestamps",
+  "license": "MIT",
+  "homepage": "https://disctimestamps.com"
+}
